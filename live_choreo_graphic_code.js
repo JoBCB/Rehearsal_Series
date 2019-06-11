@@ -49,7 +49,8 @@ document.querySelector("body").style.transform="rotate(180deg)";
 
 // ***********************************************************************************
 
- 
+// keep on moving:
+
 var xMax, yMax, xNeg=0, yNeg=1;
 
 function move() {
@@ -62,6 +63,25 @@ function move() {
     yMax = window.scrollY;
 }
 move();
+
+
+    function rotate () {
+    var centro = document.querySelector("body"),
+    deg = 10;
+    des_centro = setInterval(function() {
+    centro.style.transform = "rotateY(" + deg + "deg)";
+    deg = (deg + 10) % 360
+    }, 80); 
+    } 
+
+//rotate ()
+
+
+    function pause () {
+    clearInterval(des_centro);
+    } 
+
+// pause ()  
 
 // ***********************************************************************************
 
