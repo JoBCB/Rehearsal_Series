@@ -12,7 +12,7 @@ In every rehearsal a specific topic and set of tools is addressed which serves a
 
   ** [References on Choreographic Coding](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
   
-  ** [Theory and Resources on Open Technology, Design and Activism](https://github.com/JoBCB/Rehearsal_Series/wiki/Theory-and-Resources-on-Open-Technology,-Design-and-Activism)
+  ** [Theory and Resources on Open Technology, Design and Activism](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
   
   ** [Web, Design, Live Coding Tools and Free Software](https://github.com/JoBCB/Rehearsal_Series/wiki/Web,-Design,-Live-Coding-Tools-and-Free-Software)
 
