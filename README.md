@@ -1,6 +1,6 @@
 # Rehearsal_Series
 
-**[Rehearsal Series Website](http://joanachicau.com/rehearsal_series.html)** is a workshop methodology a cross-disciplinary exploration of choreography with design thinking and computer programming developed by [Joana Chicau.](http://joanachicau.com)
+**[Rehearsal Series](http://joanachicau.com/rehearsal_series.html)** is a workshop methodology a cross-disciplinary exploration of choreography with design thinking and computer programming developed by [Joana Chicau.](http://joanachicau.com)
 
 By 'rehearsal' it is meant a temporary stage for experimenting with digital design tools which follow choreographic methods and conceptual concerns. Traditionally, a rehearsal is a built-in process, a space-time for developing ideas and work acknowledging unexpected and unpredictable results. This format is very similar to an open workshop, open to any participants curious to explore the use of choreographic techniques to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies. 
 
