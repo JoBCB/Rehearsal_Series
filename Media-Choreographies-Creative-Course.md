@@ -21,8 +21,10 @@ She has been actively participating and organizing events with performances invo
 * [Interview about live coding and choreography](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-joana-chicau-867d46a273d4)
 * [<body> Building: the code performance of Joana Chicau](https://esoteric.codes/blog/body-building-the-code-performance-of-joana-chicau)
 
+
  #### Introduction to the theme
  
+ <br>
 
 __WHAT IS CHOREOGRAPHY?__
 
@@ -42,6 +44,7 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 > "Choreographies valorize failure";
 
 
+<br><br> 
 
 __::::::: EXERCISE 01 — max. 1 hour :::::::__
 
@@ -72,8 +75,8 @@ _15 min_
 
 5) The group selects one example and present to the whole class;
 
-      
-      
+<br><br> 
+
 __::::::: LINKS POOL 01 :::::::__
 
 * [Choreographic-Coding resources gathered by Joana Chicau](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
@@ -111,7 +114,7 @@ _LINKS ON LIVE CODING_
 
 * [Run the code: is algorave the future of dance music?](https://www.youtube.com/watch?v=h340aNznHnM&list=PLkRYCVc1KXTXXma9O9gngxu_RrfHm25vT&index=11)
 
-__
+***
 
 ### 22nd September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
 
@@ -177,6 +180,7 @@ _LINKS ON SYSTEMS OF NOTATION_
 * [The Concept Bank Dance Scores](http://www.theconceptbank.org)
 
 
+<br><br> 
 
 __::::::: ASSIGNMENT :::::::__
 
@@ -205,6 +209,7 @@ _Format:_ 1 PDF file (max. 5 pages) — must contain:
   
   * students names;
 
+<br><br> 
 
 __::::::: LINKS POOL 01 :::::::__
 
@@ -218,6 +223,7 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 
 * [Algorithm Degeneracy — Naoto Hieda](https://youtu.be/oRstxKlEOIs?t=765)
 
+***
 
 ### 25th September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
 
