@@ -42,7 +42,9 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 > "Choreographies valorize failure";
 
 
+
 __::::::: EXERCISE 01 — max. 1 hour :::::::__
+
 
 __Choreographing and Being choreographed__ a discussion on how movement, gestures, discourses, and behaviours are choreographed and communicated through the apparatuses. 
 
@@ -70,6 +72,7 @@ _15 min_
 
 5) The group selects one example and present to the whole class;
 
+      
       
 __::::::: LINKS POOL 01 :::::::__
 
@@ -111,6 +114,7 @@ _LINKS ON LIVE CODING_
 __
 
 ### 22nd September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
+
 
 
 __::::::: EXERCISE 02 :::::::__
@@ -171,6 +175,7 @@ _LINKS ON SYSTEMS OF NOTATION_
 * [On dance scores and communication](http://olga0.oralsite.be/oralsite/pages/What's_the_Score/?/edit/)
 
 * [The Concept Bank Dance Scores](http://www.theconceptbank.org)
+
 
 
 __::::::: ASSIGNMENT :::::::__
