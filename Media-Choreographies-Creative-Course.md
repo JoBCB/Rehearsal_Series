@@ -177,14 +177,18 @@ __::::::: ASSIGNMENT :::::::__
 
 _Description:_ In a group, create a piece of “choreographic code”: by translating the ideas discussed in the class into programming logic. 
 
-  * Choose a computational process;  
+  * Choose a computational process (you can work with any data type yet choose a simple, with not too many steps);
 
   * Define the 'choreographic viewpoint' you would like to explore; For example: 
+     - temporality (duration,  explore different rhythms, tempo: smooth/flowing versus very slowly or fast; - repetition; - simultanity or different forms of temporal relationality…)
+     - spatiality (position, scale, layers, - distances between objects; - one body or element in relation to another, to a group, or to the architecture; - topography: the movement over a pattern, symmetry versus asymmetry,..)
+     - sequence: unpredictability, (non)linearity or random sequence..
 
   * Start discussing ideas on how to combine the two;
 
 
 _Deliverables:_ present a choreographic score in written form: it can be either a text, drawing, schema, geometric shapes, a code snippet,...
+
 
 _Format:_ 1 PDF file (max. 5 pages) — must contain: 
 
