@@ -10,7 +10,7 @@ As in choreography, computer programming deals with space, time and movement con
  
 #### Introduction to tutor Joana Chicau
  
-Joana Chicauis a graphic designer, coder, independent researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. 
+Joana Chicau is a graphic designer, coder, independent researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. 
 In her practice she researches the intersection of the body with the constructed, designed, programmed environment, aiming at in widening theways in which digital sciences is presented and made accessible to the public. 
 She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.
 
