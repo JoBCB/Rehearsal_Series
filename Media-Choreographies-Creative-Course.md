@@ -21,6 +21,7 @@ She has been actively participating and organizing events with performances invo
 * [Interview about live coding and choreography](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-joana-chicau-867d46a273d4)
 * [<body> Building: the code performance of Joana Chicau](https://esoteric.codes/blog/body-building-the-code-performance-of-joana-chicau)
 
+<br><br> 
 
  #### Introduction to the theme
  
