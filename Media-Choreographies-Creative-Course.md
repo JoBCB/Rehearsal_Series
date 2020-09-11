@@ -119,11 +119,13 @@ _LINKS ON LIVE CODING_
 
 ### 22nd September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
 
-
+<br><br> 
 
 __::::::: EXERCISE 02 :::::::__
 
 * Dance Webring;
+
+<br>
 
 __NOTATION SYSTEMS: SCORES & SCRIPTS__
 
@@ -229,6 +231,8 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 ### 25th September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
 
 _Groupp presentations and discussion;_
+
+<br><br> 
 
 __::::::: EXERCISE 03:::::::__
 
