@@ -8,7 +8,7 @@ As in choreography, computer programming deals with space, time and movement con
 
 ### 21st September — 9.30AM - 1.30PM CET / 2 PM - 5PM IST 
  
-#### Introduction to tutor Joana Chicau
+#### Introduction to tutor Joana Chicau — 15min;
  
 Joana Chicau is a graphic designer, coder, independent researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. 
 In her practice she researches the intersection of the body with the constructed, designed, programmed environment, aiming at in widening theways in which digital sciences is presented and made accessible to the public. 
@@ -23,16 +23,27 @@ She has been actively participating and organizing events with performances invo
 
 <br><br> 
 
- #### Introduction to the theme
+ #### Introduction to the theme — 30min;
  
- <br>
-
-__WHAT IS CHOREOGRAPHY?__
+ __WHAT IS CHOREOGRAPHY?__
 
 _choreography in Greek is spelled χορογραφια from χορός (dance) + γραφια (writing)_
 
+ 
+<br><br> 
 
-> "Choreography is the term that presides over a class of ideas: an idea is perhaps in this case a thought or suggestion as to a possible course of action. " at [Choreographic Objects by William Forsythe](http://www.williamforsythe.com/essay.html); more quotes from the same author:
+__::::::: EXERCISE 01 — max. 45 min :::::::__
+
+
+In groups, read the text: [Choreographic Objects by William Forsythe](http://www.williamforsythe.com/essay.html); and write your own definition. Give an example of a choreography you have encountered this week.
+
+Presentation of one idea and one example per group.
+
+<br><br> 
+
+Quotes from the same author:
+
+> "Choreography is the term that presides over a class of ideas: an idea is perhaps in this case a thought or suggestion as to a possible course of action."
 
 > "Choreographies model uncertain outcomes";
 
@@ -47,7 +58,7 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 
 <br><br> 
 
-__::::::: EXERCISE 01 — max. 1 hour :::::::__
+__::::::: EXERCISE 02 — max. 1 hour :::::::__
 
 
 __Choreographing and Being choreographed__ a discussion on how movement, gestures, discourses, and behaviours are choreographed and communicated through the apparatuses. 
@@ -121,13 +132,13 @@ _LINKS ON LIVE CODING_
 
 <br><br> 
 
-__::::::: EXERCISE 02 :::::::__
+__::::::: EXERCISE 02 :::::::__ — 30min;
 
-* Dance Webring;
+* Dance Webring — present a movement to the class; you can improvise!
 
 <br>
 
-__NOTATION SYSTEMS: SCORES & SCRIPTS__
+__NOTATION SYSTEMS: SCORES & SCRIPTS__ — 1hour;
 
 * Anne Teresa de Keersmaeker
 
@@ -167,7 +178,9 @@ __NOTATION SYSTEMS: SCORES & SCRIPTS__
 * Eshkol-Wachman Movement Notation (EWMN)
 
   * [1958: The notation utilizes a spherical system of coordinates, similar to latitude and longitude on a globe.](noaeshkol.org/wp-content/uploads/2016/11/SystemOfReference_MainAndPrivate_Illustration-AvrahamWachman-BW.jpg)
+  
   * [The system of reference, Intermediate cardinal planes I: perpendicular horizontal planes, 1950s](noaeshkol.org/wp-content/uploads/2016/12/20.jpg)
+  
   * [Sphere applied to other than humans](noaeshkol.org/wp-content/uploads/2016/12/04_Zoology141.jpg)
   
 
