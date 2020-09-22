@@ -136,7 +136,7 @@ __::::::: EXERCISE 02 :::::::__ — 30min;
 
 * Dance Webring — present a movement to the class; you can improvise!
 
-<br>
+<br><br> 
 
 __NOTATION SYSTEMS: SCORES & SCRIPTS__ — 1hour;
 
