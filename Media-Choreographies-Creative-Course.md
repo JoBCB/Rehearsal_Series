@@ -243,7 +243,7 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 
 ### 25th September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
 
-_Groupp presentations and discussion;_
+_Group presentations and discussion;_
 
 <br><br> 
 
