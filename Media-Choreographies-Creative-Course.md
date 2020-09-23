@@ -89,7 +89,11 @@ _15 min_
 
 <br><br> 
 
-__LINKS POOL__
+__::::::: EXERCISE 03 — after the workshop :::::::__
+
+<br>
+
+__Go through the LINKS POOL__
 
 * [Choreographic-Coding resources gathered by Joana Chicau](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
 
@@ -144,7 +148,7 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 
 <br><br> 
 
-__::::::: EXERCISE 02 :::::::__ — 30min;
+__::::::: EXERCISE 04 :::::::__ — 30min;
 
 * Dance Webring — present a movement to the class; you can improvise!
 
@@ -212,20 +216,22 @@ _LINKS ON SYSTEMS OF NOTATION_
 
 __::::::: ASSIGNMENT :::::::__
 
-_Description:_ In a group, create a piece of “choreographic code”: by translating the ideas discussed in the class into programming logic. 
+_Description:_ in groups, create a piece of “choreographic code” by translating the ideas discussed in the class into programming logic. 
 
-  * Choose a computational process (you can work with any data type yet choose a simple, with not too many steps);
+  * Choose a computational process (you can work with any data type, better to start with a simple one, and with not too many steps);
 
-  * Define the 'choreographic viewpoint' you would like to explore; For example: 
+  * Define the 'choreographic viewpoint' you would like to explore; for example: 
      - temporality (duration,  explore different rhythms, tempo: smooth/flowing versus very slowly or fast; - repetition; - simultanity or different forms of temporal relationality…)
      - spatiality (position, scale, layers, - distances between objects; - one body or element in relation to another, to a group, or to the architecture; - topography: the movement over a pattern, symmetry versus asymmetry,..)
      - sequence: unpredictability, (non)linearity or random sequence..
 
-  * Start discussing ideas on how to combine the two;
+  * Discuss in your group how to combine the computational process with a choreographic viewpoint; how will the code perform?
 
+  * Sketch your ideas in written form: it can be either a text, drawing, schema, geometric shapes, a code snippet,...
 
-_Deliverables:_ present a choreographic score in written form: it can be either a text, drawing, schema, geometric shapes, a code snippet,...
+<br> 
 
+__Deliverables:__ 
 
 _Format:_ 1 PDF file (max. 5 pages) — must contain: 
 
@@ -247,6 +253,6 @@ _Group presentations and discussion;_
 
 <br><br> 
 
-__::::::: EXERCISE 04:::::::__
+__::::::: EXERCISE 05:::::::__
 
 * The after-life of choreography or future variations;
