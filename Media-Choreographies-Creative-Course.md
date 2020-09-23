@@ -87,7 +87,11 @@ _15 min_
 
 5) The group selects one example and present to the whole class;
 
-<br><br> 
+<br>
+
+[Link to Exercises Pad](https://pad.vvvvvvaria.org/Media-Choreographies-IITJammu-2020)
+
+<br> <br> 
 
 __::::::: EXERCISE 03 — after the workshop :::::::__
 
