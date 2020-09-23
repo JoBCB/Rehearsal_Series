@@ -21,7 +21,7 @@ She has been actively participating and organizing events with performances invo
 * [Interview about live coding and choreography](https://medium.com/the-aesthetics-of-creative-coding/behind-the-screens-joana-chicau-867d46a273d4)
 * [<body> Building: the code performance of Joana Chicau](https://esoteric.codes/blog/body-building-the-code-performance-of-joana-chicau)
 
-<br><br> 
+<br>
 
  #### Introduction to the theme — 30min;
  
@@ -89,7 +89,7 @@ _15 min_
 
 <br><br> 
 
-__::::::: LINKS POOL 01 :::::::__
+__LINKS POOL__
 
 * [Choreographic-Coding resources gathered by Joana Chicau](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
 
@@ -125,6 +125,18 @@ _LINKS ON LIVE CODING_
 * [Live Coding International Conference](https://iclc.toplap.org/)
 
 * [Run the code: is algorave the future of dance music?](https://www.youtube.com/watch?v=h340aNznHnM&list=PLkRYCVc1KXTXXma9O9gngxu_RrfHm25vT&index=11)
+
+
+_DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
+
+* [Esoteric Programming](https://en.wikipedia.org/wiki/Esoteric_programming_language)
+
+* [ESOTERIC CODES](https://esoteric.codes/)
+
+* [Hello World - CodeKlavier](https://www.youtube.com/watch?v=ytpB8FB6VTU&list=PLkRYCVc1KXTXXma9O9gngxu_RrfHm25vT&index=10)
+
+* [Algorithm Degeneracy — Naoto Hieda](https://youtu.be/oRstxKlEOIs?t=765)
+
 
 ***
 
@@ -227,18 +239,6 @@ _Format:_ 1 PDF file (max. 5 pages) — must contain:
 
 <br><br> 
 
-__::::::: LINKS POOL 01 :::::::__
-
-_DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
-
-* [Esoteric Programming](https://en.wikipedia.org/wiki/Esoteric_programming_language)
-
-* [ESOTERIC CODES](https://esoteric.codes/)
-
-* [Hello World - CodeKlavier](https://www.youtube.com/watch?v=ytpB8FB6VTU&list=PLkRYCVc1KXTXXma9O9gngxu_RrfHm25vT&index=10)
-
-* [Algorithm Degeneracy — Naoto Hieda](https://youtu.be/oRstxKlEOIs?t=765)
-
 ***
 
 ### 25th September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
@@ -247,6 +247,6 @@ _Group presentations and discussion;_
 
 <br><br> 
 
-__::::::: EXERCISE 03:::::::__
+__::::::: EXERCISE 04:::::::__
 
 * The after-life of choreography or future variations;
