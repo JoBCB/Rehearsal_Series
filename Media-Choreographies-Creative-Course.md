@@ -148,7 +148,7 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 
 ***
 
-### 24th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
+### 25th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
 
 <br><br> 
 
@@ -251,7 +251,7 @@ _Format:_ 1 PDF file (max. 5 pages) — must contain:
 
 ***
 
-### 25th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
+### 26th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
 
 _Group presentations and discussion;_
 
