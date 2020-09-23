@@ -6,7 +6,7 @@
 As in choreography, computer programming deals with space, time and movement constructs. And it has been defining ways of moving collectively or individually, through fluid nonetheless complex landscapes of information displays, networked spaces, and multi-media environments. — [Joana Chicau, Choreo-graphic-hypothesis publication](https://monoskop.org/images/7/70/Choreo-graphic-hypothesis-web-joana-chicau.pdf)
 
 
-### 23rd September — 9.30AM - 1.30PM CET / 2 PM - 5PM IST 
+### 23rd September — 10.30AM - 2.30PM CET / 2 PM - 5PM IST 
  
 #### Introduction to tutor Joana Chicau — 15min;
  
@@ -144,7 +144,7 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 
 ***
 
-### 24th September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
+### 24th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
 
 <br><br> 
 
@@ -247,7 +247,7 @@ _Format:_ 1 PDF file (max. 5 pages) — must contain:
 
 ***
 
-### 25th September — 9AM - 2PM CET / 1:30PM - 6.30PM IST
+### 25th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
 
 _Group presentations and discussion;_
 
