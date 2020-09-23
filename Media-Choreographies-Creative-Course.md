@@ -176,7 +176,7 @@ __NOTATION SYSTEMS: SCORES & SCRIPTS__ — 1hour;
 
   * [Calico Mingling, 1973](https://ubuvideo.memoryoftheworld.org/Mangolte-Babette_Calico-Mingling_1973.m4v)
   
-  * [Melody Excerpt](danceworkbook.pcah.us/asteadypulse/common/img/dances/melody_excerpt/melody_excerpt_04_xl.jpg)
+  * [Melody Excerpt](http://danceworkbook.pcah.us/asteadypulse/common/img/dances/melody_excerpt/melody_excerpt_04_xl.jpg)
 
 * Yvone Rainner
 
@@ -189,11 +189,11 @@ __NOTATION SYSTEMS: SCORES & SCRIPTS__ — 1hour;
 
 * Eshkol-Wachman Movement Notation (EWMN)
 
-  * [1958: The notation utilizes a spherical system of coordinates, similar to latitude and longitude on a globe.](noaeshkol.org/wp-content/uploads/2016/11/SystemOfReference_MainAndPrivate_Illustration-AvrahamWachman-BW.jpg)
+  * [1958: The notation utilizes a spherical system of coordinates, similar to latitude and longitude on a globe.](http://noaeshkol.org/wp-content/uploads/2016/11/SystemOfReference_MainAndPrivate_Illustration-AvrahamWachman-BW.jpg)
   
-  * [The system of reference, Intermediate cardinal planes I: perpendicular horizontal planes, 1950s](noaeshkol.org/wp-content/uploads/2016/12/20.jpg)
+  * [The system of reference, Intermediate cardinal planes I: perpendicular horizontal planes, 1950s](http://noaeshkol.org/wp-content/uploads/2016/12/20.jpg)
   
-  * [Sphere applied to other than humans](noaeshkol.org/wp-content/uploads/2016/12/04_Zoology141.jpg)
+  * [Sphere applied to other than humans](http://noaeshkol.org/wp-content/uploads/2016/12/04_Zoology141.jpg)
   
 
 
