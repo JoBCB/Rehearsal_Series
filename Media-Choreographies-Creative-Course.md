@@ -242,7 +242,7 @@ __::::::: EXERCISE 05 | Assignment :::::::__ — 40min + break 20min + 40min +  
 
 <br>
 
-Suggestion: you can use an online collaborative work enviroment provided by you University, or alternatively: the [Twiddla online whiteboard](https://www.twiddla.com/) — (see here [Privacy Policy](https://www.twiddla.com/wiki/privacy.ashx )  or choose another document type from [Cryptpad](https://cryptpad.fr) — (see here [Privacy Policy](https://cryptpad.fr/privacy.html ).
+Suggestion: you can use an online collaborative work enviroment provided by you University, or alternatively: the [Twiddla online whiteboard](https://www.twiddla.com/) — (see here [Privacy Policy](https://www.twiddla.com/wiki/privacy.ashx )) or choose another document type from [Cryptpad](https://cryptpad.fr) — (see here [Privacy Policy](https://cryptpad.fr/privacy.html)).
 
 <br> 
 
