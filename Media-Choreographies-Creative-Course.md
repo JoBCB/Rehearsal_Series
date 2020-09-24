@@ -160,6 +160,12 @@ __::::::: EXERCISE 04 :::::::__ — 30min;
 
 __NOTATION SYSTEMS: SCORES & SCRIPTS__ — 1hour;
 
+* Wayne McGregor 
+
+  * [Thinking with the Body: Choreographic Language Agent — Wellcome Collection Exhibition](https://waynemcgregor.com/research/thinking-with-the-body-wellcome-exhibition/)
+  
+  * [Google Arts AI — Wayne McGregor](https://aiartists.org/wayne-mcgregor)
+
 * Anne Teresa de Keersmaeker
 
   * [Violin Fase by Steve Reich](https://www.youtube.com/watch?v=i36Qhn7NhoA&list=PLkRYCVc1KXTXUQ01d45TrHs8R5WfEdC-_&index=5&t=0s)
