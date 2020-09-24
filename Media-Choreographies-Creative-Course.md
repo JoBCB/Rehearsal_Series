@@ -226,18 +226,23 @@ _LINKS ON SYSTEMS OF NOTATION_
 
 __::::::: EXERCISE 05 | Assignment :::::::__ — 40min + break 20min + 40min +  break 20min + 30min;
 
-_Description:_ in groups, create a piece of “choreographic code” by translating the ideas discussed in the class into programming logic. 
+* In groups, create a piece of “choreographic code” by translating the ideas discussed in the class into programming logic. 
+
 
   * Choose a computational process (you can work with any data type, better to start with a simple one, and with not too many steps);
 
   * Define the 'choreographic viewpoint' you would like to explore; for example: 
-     - temporality (duration,  explore different rhythms, tempo: smooth/flowing versus very slowly or fast; - repetition; - simultanity or different forms of temporal relationality…)
-     - spatiality (position, scale, layers, - distances between objects; - one body or element in relation to another, to a group, or to the architecture; - topography: the movement over a pattern, symmetry versus asymmetry,..)
-     - sequence: unpredictability, (non)linearity or random sequence..
+     * temporality (duration,  explore different rhythms, tempo: smooth/flowing versus very slowly or fast; - repetition; - simultanity or different forms of temporal relationality…)
+     * spatiality (position, scale, layers, - distances between objects; - one body or element in relation to another, to a group, or to the architecture; - topography: the movement over a pattern, symmetry versus asymmetry,..)
+     * sequence: unpredictability, (non)linearity or random sequence..
 
   * Discuss in your group how to combine the computational process with a choreographic viewpoint; how will the code perform?
 
   * Sketch your ideas in written form: it can be either a text, drawing, schema, geometric shapes, a code snippet,...
+
+<br>
+
+Suggestion: you can use an online collaborative work enviroment provided by you University, or alternatively: the [Twiddla online whiteboard](https://www.twiddla.com/) — (see here [Privacy Policy](https://www.twiddla.com/wiki/privacy.ashx)  or choose another document type from [Cryptpad](https://cryptpad.fr) — (see here [Privacy Policy](https://cryptpad.fr/privacy.html).
 
 <br> 
 
