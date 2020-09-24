@@ -271,9 +271,9 @@ __::::::: EXERCISE 06:::::::__ — 40min + break 20min + 40min;
 
 * Groups exchange their 'choreographic code':
 
- * group members reads and discusses the documents;
+  * group members reads and discusses the documents;
  
- * the group sketches three new variations;
+  * the group sketches three new variations;
  
 <br> 
 
