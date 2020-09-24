@@ -218,7 +218,7 @@ _LINKS ON SYSTEMS OF NOTATION_
 
 <br><br> 
 
-__::::::: ASSIGNMENT :::::::__
+__::::::: EXERCISE 05 | Assignment :::::::__ — 3hours [break 4PM — 4.30PM IST];
 
 _Description:_ in groups, create a piece of “choreographic code” by translating the ideas discussed in the class into programming logic. 
 
@@ -235,7 +235,7 @@ _Description:_ in groups, create a piece of “choreographic code” by translat
 
 <br> 
 
-__Deliverables:__ 
+__Deliverables:__ — to be sent over email by the end of the session;
 
 _Format:_ 1 PDF file (max. 5 pages) — must contain: 
 
@@ -249,14 +249,30 @@ _Format:_ 1 PDF file (max. 5 pages) — must contain:
 
 <br><br> 
 
+__Wrap-up the session__  — 30 min;
+
 ***
 
 ### 26th September — 10AM - 3PM CET / 1:30PM - 6.30PM IST
 
-_Group presentations and discussion;_
+<br><br> 
+
+__1st round of group presentations__ — 1 hour;
+
+<br> 
+
+__::::::: EXERCISE 06:::::::__ — 2 hours;
+
+* Groups exchange their 'choreographic code' — 
+
+[30 minutes break]
+
+<br> 
+
+__2nd round of group presentations and discussion;__ — 1 hour;
 
 <br><br> 
 
-__::::::: EXERCISE 05:::::::__
+__Wrap-up discussion and feedback__  — 30 min;
 
-* The after-life of choreography or future variations;
+* The after-life of choreography or future choreographies;
