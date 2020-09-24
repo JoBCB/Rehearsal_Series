@@ -269,8 +269,12 @@ __1st round of group presentations__ — 1 hour;
 
 __::::::: EXERCISE 06:::::::__ — 40min + break 20min + 40min;
 
-* Groups exchange their 'choreographic code' — 
+* Groups exchange their 'choreographic code':
 
+ * group members reads and discusses the documents;
+ 
+ * the group sketches three new variations;
+ 
 <br> 
 
 __2nd round of group presentations and discussion;__ — 1 hour;
