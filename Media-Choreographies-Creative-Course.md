@@ -255,7 +255,7 @@ _Format:_ 1 PDF file (max. 5 pages) — must contain:
 
 <br><br> 
 
-__Wrap-up the session__  — 30 min;
+__Wrap-up the session__  
 
 ***
 
@@ -279,6 +279,6 @@ __2nd round of group presentations and discussion;__ — 1 hour;
 
 <br><br> 
 
-__Wrap-up discussion and feedback__  — 30 min;
+__Wrap-up discussion and feedback__ 
 
 * The after-life of choreography or future choreographies;
