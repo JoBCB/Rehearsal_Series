@@ -271,8 +271,6 @@ __::::::: EXERCISE 06:::::::__ — 40min + break 20min + 40min;
 
 * Groups exchange their 'choreographic code' — 
 
-[30 minutes break]
-
 <br> 
 
 __2nd round of group presentations and discussion;__ — 1 hour;
