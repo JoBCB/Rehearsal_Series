@@ -224,7 +224,7 @@ _LINKS ON SYSTEMS OF NOTATION_
 
 <br><br> 
 
-__::::::: EXERCISE 05 | Assignment :::::::__ — 3hours [break 4PM — 4.30PM IST];
+__::::::: EXERCISE 05 | Assignment :::::::__ — 40min + break 20min + 40min +  break 20min + 30min;
 
 _Description:_ in groups, create a piece of “choreographic code” by translating the ideas discussed in the class into programming logic. 
 
@@ -267,7 +267,7 @@ __1st round of group presentations__ — 1 hour;
 
 <br> 
 
-__::::::: EXERCISE 06:::::::__ — 2 hours;
+__::::::: EXERCISE 06:::::::__ — 40min + break 20min + 40min;
 
 * Groups exchange their 'choreographic code' — 
 
