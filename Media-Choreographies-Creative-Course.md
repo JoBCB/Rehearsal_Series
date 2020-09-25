@@ -191,6 +191,8 @@ __NOTATION SYSTEMS: SCORES & SCRIPTS__ — 1hour;
   * [Calico Mingling, 1973](https://ubuvideo.memoryoftheworld.org/Mangolte-Babette_Calico-Mingling_1973.m4v)
   
   * [Melody Excerpt](http://danceworkbook.pcah.us/asteadypulse/common/img/dances/melody_excerpt/melody_excerpt_04_xl.jpg)
+  
+  * [Various Notations](http://danceworkbook.pcah.us/asteadypulse/dances/melody_excerpt.html)
 
 * Yvone Rainner
 
