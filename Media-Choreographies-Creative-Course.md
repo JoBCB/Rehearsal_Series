@@ -270,11 +270,11 @@ __Wrap-up the session__
 
 <br><br> 
 
-__1st round of group presentations__ — 1 hour;
+__1st round of group presentations__ — 30 min;
 
 <br> 
 
-__::::::: EXERCISE 06:::::::__ — 40min + break 20min + 40min;
+__::::::: EXERCISE 06:::::::__ — 2hours;
 
 * Groups exchange their 'choreographic code':
 
@@ -284,10 +284,14 @@ __::::::: EXERCISE 06:::::::__ — 40min + break 20min + 40min;
  
 <br> 
 
+_[ break — 30min;]
+
 __2nd round of group presentations and discussion;__ — 1 hour;
 
 <br><br> 
 
-__Wrap-up discussion and feedback__ 
+__Wrap-up discussion and feedback__  — 1 hour;
+
+* [William Forsythe: Choreographic Objects](https://youtu.be/43MnWjUK0ps?t=368)
 
 * The after-life of choreography or future choreographies;
