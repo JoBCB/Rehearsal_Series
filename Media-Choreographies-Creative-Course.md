@@ -154,7 +154,7 @@ _DEVELOPING NEW LANGUAGES AND GESTURES FOR COMPOSING SOUND AND VISUALS:_
 
 __::::::: EXERCISE 04 :::::::__ — 30min;
 
-* Dance Webring — present a movement to the class; you can improvise!
+* Dance Webring — write down the first gesture (you remember) you did!
 
 <br><br> 
 
