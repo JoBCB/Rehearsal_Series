@@ -284,14 +284,16 @@ __::::::: EXERCISE 06:::::::__ — 2hours;
  
 <br> 
 
-_[ break — 30min;]
+_[break — 30min]_
 
 __2nd round of group presentations and discussion;__ — 1 hour;
 
-<br><br> 
+<br>
 
 __Wrap-up discussion and feedback__  — 1 hour;
 
 * [William Forsythe: Choreographic Objects](https://youtu.be/43MnWjUK0ps?t=368)
 
 * The after-life of choreography or future choreographies;
+
+<br> 
