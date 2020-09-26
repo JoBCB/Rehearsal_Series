@@ -280,6 +280,7 @@ __1st round of group presentations__ — 1hour;
 
 * [Synchronous Objects](https://synchronousobjects.osu.edu/) — on the creation on variations; see for eg. [cue annotations](https://synchronousobjects.osu.edu/content.html#/CueAnnotations)
 
+<br>
 
 __::::::: EXERCISE 06:::::::__ — 2hours;
 
