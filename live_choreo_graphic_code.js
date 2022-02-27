@@ -89,7 +89,6 @@ move();
 // ***********************************************************************************
 
 
-
 // stage: search news q=web choreographies
 
 function Warning() {
@@ -171,12 +170,43 @@ function noBreathing() {
     clearInterval(currenttime);
 }
 
+body{
+  animation: newSkin 30s infinite !important;
+-webkit-animation: newSkin 10s infinite !important;
+  background-repeat: repeat;
+}
+
+
+@keyframes newSkin {
+    0% {
+    background: radial-gradient(ellipse at center, #e8e8e8 1%, #b2e1c7 50%, #b2e1c7 100%);
+    background-size: 50% 50%;
+    background-position: right;       
+    }
+    50% {
+    background: radial-gradient(ellipse at center, #b2e1c7  1%, #ffecef 50%,  #e8e8e8 100%);
+    background-size: 10% 300%; 
+    background-position: left;       
+    }
+    80% {
+    background: linear-gradient( #badffb 5%, #ffecef 100%);
+    background-size: 1% 5%;
+    background-position: right;       
+    }
+    90%, 100%{
+    background:  #000;
+    background-size: 100% 100%;
+    }
+}
+
+
 function OffStage () {
     document.body.innerHTML = '';
     document.querySelector("body").style.background="#000";    
 }
 
 //    document.head.innerHTML = '';  
+
 
 
 // if on search use #rso > div:nth-child("+n+")");
