@@ -90,9 +90,15 @@ move();
 
 
 
+// stage: search news q=web choreographies
+
 function Warning() {
-    alert("Welcome to Web Choreographies. Every move counts and it is counting.");
+    alert("Welcome to Web Choreographies. Here, every move counts and it is counting.");
 }
+
+// document.querySelector("#logo").remove()
+
+// on <a> parent use filter: blur(50px);
 
 var delay="10";
 var count='0';
@@ -118,27 +124,33 @@ var Texts=new Array();
       Texts[18]="continue b r e a t h i n g"
 
 function NewSequence(){
-document.querySelector('.logo').innerHTML=Texts[count]; 
+document.querySelector('#kO001e').innerHTML=Texts[count]; 
 count++;
 if(count==Texts.length){count='0';}
 setTimeout("NewSequence()",delay*1000);
 
-document.querySelector(".logo").style.width="1000px"
-document.querySelector(".logo").style.fontSize="12vw"
-document.querySelector(".logo").style.opacity="0.75"
+    var noLogo = document.querySelector("#kO001e");
+    noLogo.style.width="16vw"
+    noLogo.style.fontSize="16vw"
+    noLogo.style.opacity="0.75"
+    noLogo.style.wordBreak= "break-word";
 }
 
+// setInterval(NewSequence, 1000)
 
-// transform: matrix3d(1, 1, 0, 0, 10, 1, 0, 10, 10, 0, 1, 0, 200, 10, 0, 1);
-// width: 500px;
-// opacity: 0.25;
-//transform: matrix3d(-1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 10, 50, 0, 25);
+
+// document.querySelector("html").style.transform="scale(0.1)"
 
 function LeaveTheStage (n){
-var r =document.querySelector("#rso > div:nth-child("+n+")");
+var r =document.querySelector(".isv-r:nth-child("+n+")");
 r.style.visibility="hidden";
 };
 
+
+// - - - - - - - - - - - CSNI - - - - - - - - - - -  //
+
+
+// document.querySelector("body").style.transform="skewY(20deg)"
 
 // LOOP all images
 
@@ -147,8 +159,9 @@ function Breathing(){
   var i;
   currenttime = setInterval(function() {
       for (i = 0; i < x.length; i++) {
-        x[i].style.opacity = Math.random() * 0.9;
+        x[i].style.opacity = Math.random() * 2;
         x[i].style.filter = "blur(" + Math.random() * 25 + "px)"; 
+        x[i].style.scale = Math.random() * 2;
       }
   }, 1000); 
 }
@@ -158,11 +171,17 @@ function noBreathing() {
     clearInterval(currenttime);
 }
 
-
 function OffStage () {
     document.body.innerHTML = '';
-    document.head.innerHTML = '';      
+    document.querySelector("body").style.background="#000";    
 }
+
+//    document.head.innerHTML = '';  
+
+
+// if on search use #rso > div:nth-child("+n+")");
+// transform: matrix3d(-1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 10, 50, 0, 25);
+// change overflow and opacity: 0.75;
 
 
 // ***********************************************************************************
